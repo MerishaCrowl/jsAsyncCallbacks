@@ -1,0 +1,15 @@
+.default {
+    background-color: green;
+}
+
+.altColor {
+    background-color: blue;
+}
+
+.anotherAltColor {
+    background-color: red;
+}
+
+.yetAnotherAltColor {
+    background-color: purple;
+}
